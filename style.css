@@ -1,0 +1,153 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    align-items: center;
+    }
+
+    .post {
+    width: 90%;
+    max-width: 450px;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+
+
+    .post-header {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    }
+
+    .options {
+        margin: 0;
+        padding: 5px;
+        display: flex;
+        justify-content: space-between;
+        width: auto;
+    }
+    
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    align-items: center;
+    }
+
+    .post {
+    width: 90%;
+    max-width: 450px;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+
+
+    .post-header {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    }
+
+    .options {
+        margin: 0;
+        padding: 5px;
+        display: flex;
+        justify-content: space-between;
+        width: auto;
+    }
+    
+   .image {
+  width: 100%;
+  height: auto;
+   display: block;
+}
+
+    .post-icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 22px;
+    }
+
+    .post-icons .left-icons {
+      display: flex;
+      gap: 15px;
+    }
+    .post-icons i {
+      cursor: pointer;
+      transition: color 0.2s ease;
+    }
+    .post-icons i:hover {
+      color: #333;
+    }
+    .liked {
+      color: #ed4956 !important;
+    }
+
+    .post-body {
+      padding: 10px 15px;
+    }
+    .post-body p {
+      margin: 5px 0;
+      font-size: 14px;
+
+    }
+
+    .post-body strong {
+      font-weight: 700;
+    }
+ 
+
+    .post-icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 22px;
+    }
+
+    .post-icons .left-icons {
+      display: flex;
+      gap: 15px;
+    }
+    .post-icons i {
+      cursor: pointer;
+      transition: color 0.2s ease;
+    }
+    .post-icons i:hover {
+      color: #333;
+    }
+    .liked {
+      color: #ed4956 !important;
+    }
+
+    .post-body {
+      padding: 10px 15px;
+    }
+    .post-body p {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+    .post-body strong {
+      font-weight: 500;
+    }
+ 
+ 
+
+
+
+
