@@ -71,6 +71,13 @@ body {
         width: auto;
     }
     
+    .image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+   }
+
    .image {
   width: 100%;
   height: auto;
