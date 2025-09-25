@@ -75,7 +75,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  
    }
 
    .image {
@@ -151,6 +151,11 @@ body {
     }
     .post-body strong {
       font-weight: 500;
+    }
+
+    .user {
+      display: flex;
+      align-items: center;
     }
  
  
